@@ -1,9 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
+凤凰卫视HD | 香港 |  |
+https://www.youtube.com/watch?v=dmDg7NfUoSw
 
 CCTV4 | China |  |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
@@ -72,9 +71,6 @@ https://www.youtube.com/watch?v=R2iMq5LKXco
 
 東森財經新聞  |台湾||
 https://www.youtube.com/watch?v=WHEPzbFA3hw
-
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
 
 東森娛樂台live |
 https://www.youtube.com/watch?v=AH053CqyXWg
