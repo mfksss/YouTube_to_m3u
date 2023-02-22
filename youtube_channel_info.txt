@@ -1,31 +1,37 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-凤凰卫视HD | 中国香港 |  |
+凤凰卫视资讯台 | 中国香港 |  |
 https://www.youtube.com/watch?v=dmDg7NfUoSw
 
-CCTV4-中文国际 | 中国 |  |
+CCTV-4 中文国际 | 中国 |  |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
 
-2023年春节联欢晚会 | 中国 |  |
-https://www.youtube.com/watch?v=A5xO7Lwr5Lo
-
-中天新闻 |中国台湾|  |
+CTI中天新闻 |中国台湾|  |
 https://www.youtube.com/watch?v=_QbRXRnHMVY
 
-TVBS新闻 |中国台湾|  |
+中天新闻2台 |中国台湾|  |
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+TVBS新闻台 |中国台湾|  |
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-台视新闻HD |中国台湾|   |
+TVBS 56频道 |中国台湾|  |
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+台视新闻台 |中国台湾|   |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-三立海外直播 |中国台湾|   |
+LIVE 三立海外直播 |中国台湾|   |
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-三立+ |中国台湾|   |
+LIVE 三立+ |中国台湾|   |
 https://www.youtube.com/watch?v=jlldIiGA5bU
 
 三立 iNEWS |中国台湾|   |
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+三立新闻 |中国台湾|   |
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
 中视新闻 |中国台湾|   |
@@ -34,23 +40,38 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 大爱一台 |中国台湾|   |
 https://www.youtube.com/watch?v=MIqUplvSRWA
 
-寰宇新闻 |中国台湾|   |
+寰宇新闻台 |中国台湾|   |
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-三立新闻 |中国台湾|   |
-https://www.youtube.com/watch?v=CKjSm5ZeehE
-
-东森新闻  |中国台湾|   |
+EBC 东森新闻  |中国台湾|   |
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
 东森财经新闻  |中国台湾|   |
 https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+华视新闻  |中国台湾|   |
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+中视新闻  |中国台湾|   |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+关健LIVE直翻  |中国台湾|   |
+https://www.youtube.com/watch?v=hCIODku-be4
 
 LISTEN ON SPOTIFY |音乐|   |
 https://www.youtube.com/watch?v=36YnV9STBqc
 
 EDM BEST MUSIC MIX |音乐|   |
 https://www.youtube.com/watch?v=oVu-aAMV9c8
+
+Ibiza Summer Mix 2023 |音乐|   |
+https://www.youtube.com/watch?v=vUun0TlaspE
+
+Relaxing Sleep Music |音乐|   |
+https://www.youtube.com/watch?v=bYGNybojKVY
+
+4K |音乐|   |
+https://www.youtube.com/watch?v=tAuXNZ5TSlA
 
 CANAL 24 HORAS |西班牙|   |
 https://www.youtube.com/watch?v=xR-4NDFsYNk
@@ -60,3 +81,5 @@ https://www.youtube.com/watch?v=8LYu1eR4Jms
 
 Canal Sur Andalucía |西班牙|   |
 https://www.youtube.com/watch?v=xR-4NDFsYNk
+
+
