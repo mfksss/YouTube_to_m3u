@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 CCTV-4 中文国际 | 中国 |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
+https://www.youtube.com/watch?v=9sE12tg3CmA
 
 CCTV-8 电视剧  | 中国 |  |
 https://www.youtube.com/watch?v=XP3iSBbvdqM
