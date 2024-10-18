@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", LISTEN ON SPOTIFY
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729296820/ei/VKUSZ9SkMaWkir4PlIz1yQQ/ip/172.183.77.243/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxX4f3hyALkPBHqaLSUwUiHY9QhKFQRXbHK4MdDCl8K0kHbN43WGg19BzgzQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANo1y8xtEGq4fvwsCwxbzAlqoUszGrb91GuGCUl1FdGmAiEAwtA9yobF3Qsd6opJPy4pI7ldtJBCuDuxMsjsVMS2MEw%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="音乐" tvg-logo="" tvg-id="", EDM BEST MUSIC MIX
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
